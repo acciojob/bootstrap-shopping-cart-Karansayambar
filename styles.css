@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+*{
+	background-color:rgb(246,246,246);
+}
+h1{
+	color: #3b99e0;
+    text-align: center;
+}
+
+        /* Summary Block Style */
+        .summary {
+            background-color: #f7fbff;
+            border-top: 3px solid #5ea4f3;
+            padding: 20px;
+        }
+
+        .summary button {
+            background-color: #3b99e0;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+        }
+
+        /* Product Block Style */
+        .product {
+            margin-bottom: 20px;
+        }
+
+        .product img {
+            max-width: 100%;
+        }
